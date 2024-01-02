@@ -5,23 +5,29 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. String and Text Processung - Lab", "03. String and Text Processung - Lab", "{1C310664-16A9-4116-8A11-FBE1C36CC0A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0301. Reverse Strings", "0301. Reverse Strings\0301. Reverse Strings.csproj", "{381FC693-191D-4616-BB79-87A345006AD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0301. Reverse Strings", "0301. Reverse Strings\0301. Reverse Strings.csproj", "{381FC693-191D-4616-BB79-87A345006AD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0302. Repeat Strings", "0302. Repeat Strings\0302. Repeat Strings.csproj", "{3769E7C1-9DAF-4015-94BC-AEF16F963BE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0302. Repeat Strings", "0302. Repeat Strings\0302. Repeat Strings.csproj", "{3769E7C1-9DAF-4015-94BC-AEF16F963BE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0303. Substring", "0303. Substring\0303. Substring.csproj", "{9E04AFEC-6EEB-4092-97AD-38B953AFA675}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0303. Substring", "0303. Substring\0303. Substring.csproj", "{9E04AFEC-6EEB-4092-97AD-38B953AFA675}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0304. Text Filter", "0304. Text Filter\0304. Text Filter.csproj", "{642DE622-FF0D-4E36-A97D-3DAFA712EB86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0304. Text Filter", "0304. Text Filter\0304. Text Filter.csproj", "{642DE622-FF0D-4E36-A97D-3DAFA712EB86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0305. Digits, Letters and Other", "0305. Digits, Letters and Other\0305. Digits, Letters and Other.csproj", "{E4C05330-9E64-421E-8412-EAE1F5BBECC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0305. Digits, Letters and Other", "0305. Digits, Letters and Other\0305. Digits, Letters and Other.csproj", "{E4C05330-9E64-421E-8412-EAE1F5BBECC4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Regular Expressions - Lab", "04. Regular Expressions - Lab", "{572ADE7B-A582-426E-A5C0-7AD74C372E84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0401. Match Full Name", "0401. Match Full Name\0401. Match Full Name.csproj", "{84C21A69-A7B3-46AF-8E08-A7E1D9002AB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0401. Match Full Name", "0401. Match Full Name\0401. Match Full Name.csproj", "{84C21A69-A7B3-46AF-8E08-A7E1D9002AB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0402. Match Phone Number", "0402. Match Phone Number\0402. Match Phone Number.csproj", "{4D907EE8-3D30-4B69-A367-4F079B51502B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0402. Match Phone Number", "0402. Match Phone Number\0402. Match Phone Number.csproj", "{4D907EE8-3D30-4B69-A367-4F079B51502B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0403. Match Dates", "0403. Match Dates\0403. Match Dates.csproj", "{1F19721C-03AB-4610-90B6-2DC2E94ADA71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0403. Match Dates", "0403. Match Dates\0403. Match Dates.csproj", "{1F19721C-03AB-4610-90B6-2DC2E94ADA71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Strings and Regular Expressions - Unit Testing Exercise", "05. Strings and Regular Expressions - Unit Testing Exercise", "{F78EACE0-7D16-4695-BDD9-36815DFB456E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0501. RepeatStrings", "0501. RepeatStrings\0501. RepeatStrings.csproj", "{417B22B7-CF38-4EE6-A8A8-F950485AEEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0501. RepeatStringsTests", "0501. RepeatStringsTests\0501. RepeatStringsTests.csproj", "{B6A43447-CF93-48E0-ABAD-E6A47A1CBF40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +67,14 @@ Global
 		{1F19721C-03AB-4610-90B6-2DC2E94ADA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F19721C-03AB-4610-90B6-2DC2E94ADA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F19721C-03AB-4610-90B6-2DC2E94ADA71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417B22B7-CF38-4EE6-A8A8-F950485AEEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417B22B7-CF38-4EE6-A8A8-F950485AEEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417B22B7-CF38-4EE6-A8A8-F950485AEEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417B22B7-CF38-4EE6-A8A8-F950485AEEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A43447-CF93-48E0-ABAD-E6A47A1CBF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A43447-CF93-48E0-ABAD-E6A47A1CBF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A43447-CF93-48E0-ABAD-E6A47A1CBF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A43447-CF93-48E0-ABAD-E6A47A1CBF40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +88,8 @@ Global
 		{84C21A69-A7B3-46AF-8E08-A7E1D9002AB6} = {572ADE7B-A582-426E-A5C0-7AD74C372E84}
 		{4D907EE8-3D30-4B69-A367-4F079B51502B} = {572ADE7B-A582-426E-A5C0-7AD74C372E84}
 		{1F19721C-03AB-4610-90B6-2DC2E94ADA71} = {572ADE7B-A582-426E-A5C0-7AD74C372E84}
+		{417B22B7-CF38-4EE6-A8A8-F950485AEEC1} = {F78EACE0-7D16-4695-BDD9-36815DFB456E}
+		{B6A43447-CF93-48E0-ABAD-E6A47A1CBF40} = {F78EACE0-7D16-4695-BDD9-36815DFB456E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3EA811EB-EA22-4E30-A39E-D0677F806505}
