@@ -215,6 +215,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17. Exercises - Implementin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseOopHierarchy", "ExerciseOopHierarchy\ExerciseOopHierarchy.csproj", "{9317EAD4-1F57-40D9-B37A-063CC379A6E3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "18. Exam Preparation - 1", "18. Exam Preparation - 1", "{2F747A82-7087-4C4C-A0B5-4FAC31476B4C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "19. Exam Preparation - 2", "19. Exam Preparation - 2", "{5C43BBD2-6EAC-4B5E-AD1E-5D2D34372D63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "20. Exam Preparation - 3", "20. Exam Preparation - 3", "{6929DC26-5970-4A47-95EF-2DB95511155E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
