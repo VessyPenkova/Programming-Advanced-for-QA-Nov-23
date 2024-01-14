@@ -1,0 +1,1 @@
+[Programming Advanced for QA - November 2023 - Certificate.pdf](https://github.com/VessyPenkova/Programming-Advanced-for-QA-Nov-23/files/13933080/Programming.Advanced.for.QA.-.November.2023.-.Certificate.pdf)
