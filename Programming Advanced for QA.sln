@@ -211,6 +211,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1603. Animals", "1603. Anim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1604. Raiding", "1604. Raiding\1604. Raiding.csproj", "{F1CF3E98-23D6-476A-8491-3C8C36D113F6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "17. Exercises - Implementing an OOP Hierarchy", "17. Exercises - Implementing an OOP Hierarchy", "{265EFE20-DAC0-4C2E-A170-172986DA5488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseOopHierarchy", "ExerciseOopHierarchy\ExerciseOopHierarchy.csproj", "{9317EAD4-1F57-40D9-B37A-063CC379A6E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -569,6 +573,10 @@ Global
 		{F1CF3E98-23D6-476A-8491-3C8C36D113F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1CF3E98-23D6-476A-8491-3C8C36D113F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1CF3E98-23D6-476A-8491-3C8C36D113F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9317EAD4-1F57-40D9-B37A-063CC379A6E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9317EAD4-1F57-40D9-B37A-063CC379A6E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9317EAD4-1F57-40D9-B37A-063CC379A6E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9317EAD4-1F57-40D9-B37A-063CC379A6E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -664,6 +672,7 @@ Global
 		{64AE1154-58C5-41CA-8D19-FFD17D8AA430} = {58CDF0F4-3733-4AEC-992E-747417DFDAD4}
 		{2DCADA74-9E44-4C96-BA6B-CC4735F7E74F} = {58CDF0F4-3733-4AEC-992E-747417DFDAD4}
 		{F1CF3E98-23D6-476A-8491-3C8C36D113F6} = {58CDF0F4-3733-4AEC-992E-747417DFDAD4}
+		{9317EAD4-1F57-40D9-B37A-063CC379A6E3} = {265EFE20-DAC0-4C2E-A170-172986DA5488}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3EA811EB-EA22-4E30-A39E-D0677F806505}
